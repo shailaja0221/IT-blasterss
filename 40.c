@@ -2,7 +2,6 @@
 
 int main()
 {
-    #include<stdio.h>
 	void main()
 	{
 	int n,f,f1,f2,i;
